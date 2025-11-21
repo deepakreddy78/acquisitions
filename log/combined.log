@@ -1,0 +1,123 @@
+{"level":"info","message":"hello from acquisitions","service":"acquistions-api"}
+{"level":"info","message":"hello from acquisitions","service":"acquistions-api"}
+{"level":"info","message":"hello from acquisitions","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:16:18:57 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:17:02:20 +0000] \"POST /api/health HTTP/1.1\" 404 150 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:17:02:43 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"hello from acquisitions","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:17:02:51 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:17:03:00 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:17:03:28 +0000] \"GET /api HTTP/1.1\" 200 26 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:17:03:47 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:18:47:38 +0000] \"GET /api/auth/sing-up HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:18:47:46 +0000] \"POST /api/auth/sing-up HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:18:48:02 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:18:50:01 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:18:50:22 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:18:51:21 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:18:55:17 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:04:03 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:04:25 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:05:50 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1454 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:07:21 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"SignUp request received, deepak@gmail.com","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:08:19 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1440 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:09:13 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"SignUp request received, deepak@gmail.com","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:09:25 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1440 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"SignUp request received, deepak@gmail.com","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:10:16 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1440 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"SignUp request received, deepak@gmail.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:19:11:25 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 115 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:34:35 +0000] \"GET /api/sign-up HTTP/1.1\" 404 150 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:34:41 +0000] \"POST /api/sign-up HTTP/1.1\" 404 151 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:35:05 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:35:47 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:36:07 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:37:55 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:39:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 30 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:42:37 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"SignUp request received, deepak@gmail.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:16:43:53 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 115 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:35:03 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:36:14 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:36:46 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:38:57 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:41:37 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:42:23 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:43:23 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1441 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"User created successfully,deepak1@gmail.com","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:44:41 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 398 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:45:29 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:45:54 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:47:34 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:56:40 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:18:58:03 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:03:08 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:04:18 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":"User already exists","level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:06:42 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":"User already exists","level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:07:11 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 532 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":"User already exists","level":"error","message":"Error creating user:","service":"acquistions-api"}
+{"error":{},"level":"info","message":"Error in signUp controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:11:19 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 33 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"User created successfully, deepak@gmail.com","service":"acquistions-api"}
+{"level":"info","message":"SignUp request received, deepak@gmail.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:11:26 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 113 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signIn controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:31:47 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 500 1448 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signIn controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:33:17 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 500 1438 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signIn controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:34:48 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 500 1440 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signIn controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:35:07 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 500 1438 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"error":{},"level":"error","message":"Error in signIn controller","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:36:35 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 500 398 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"User signed in successfully: deepak@gmail.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:36:54 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 101 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:37:14 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
+{"level":"info","message":"User signed in successfully: deepak@gmail.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Nov/2025:19:37:24 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 101 \"-\" \"PostmanRuntime/7.50.0\"","service":"acquistions-api"}
